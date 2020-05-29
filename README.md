@@ -1,2 +1,2 @@
 # selenium-screenshot
-Lightweight web screenshot with remote selenium hub
+Light & fast web screenshot requiring selenium hub with chrome capabilities. Returns image as base64 string.
